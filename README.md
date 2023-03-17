@@ -6,7 +6,7 @@ Here are the three cataegories of DP and the subcatories this repo contains the 
 2. Structural- Adaptor, Facade
 3. Behavioral- Iterator, Observer
 
-##Usage
+## Usage
 To run any code of specific category go to the Folder, DP Folder(either of the three), then to the sub category folder and run the below command
 
 ```console
